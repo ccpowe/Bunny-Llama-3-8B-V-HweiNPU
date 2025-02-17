@@ -6,7 +6,9 @@
 
 - 推理代码和运行截图：  
     ![image.png](picture/image.png)
-<details>   
+
+<details>
+
  <summary>点击查看代码</summary>
  
     ```python
@@ -117,12 +119,15 @@
     if __name__ == "__main__":  
         main()
     ```
-    
+
+</details>  
+
+
  - 推理单元测试与运行截图：
     
     ![image.png](picture/image%201.png)
     
-    ```python
+```python
     import unittest  
     import torch  
     import os  
@@ -311,8 +316,11 @@
     
     if __name__ == '__main__':  
         unittest.main()
-    ```
-    </details>     
+
+```
+
+
+
 - 推理日志
     
     2024-11-30 12:45:05,808 - root - INFO - 程序启动
