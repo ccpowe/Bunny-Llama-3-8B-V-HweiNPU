@@ -4,8 +4,7 @@
  
 ### 推理
 <details> <summary>推理代码和运行截图：</summary>
-- 推理代码和运行截图：
-    
+  
     ![image.png](picture/image.png)
     
     ```python
