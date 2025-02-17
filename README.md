@@ -1,7 +1,7 @@
 # 基于openmind和华为npu推理微调Bunny-Llama-3-8B-V
 
 ## 任务1：基于昇腾算力，直接运行提供的微调和推理脚本可跑通
-
+<details>  
 ### 推理
 
 - 推理代码和运行截图：
@@ -311,7 +311,7 @@
     if __name__ == '__main__':  
         unittest.main()
     ```
-    
+    </details>     
 - 推理日志
     
     2024-11-30 12:45:05,808 - root - INFO - 程序启动
