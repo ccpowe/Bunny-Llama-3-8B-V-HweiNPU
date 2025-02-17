@@ -3,10 +3,10 @@
 ## 任务1：基于昇腾算力，直接运行提供的微调和推理脚本可跑通
  
 ### 推理
-<details> <summary>推理代码和运行截图：</summary>
-  
+
+- 推理代码和运行截图：  
     ![image.png](picture/image.png)
-    
+<details>   <summary>点击查看代码</summary>
     ```python
     from openmind import AutoModelForCausalLM, AutoTokenizer  
     from PIL import Image  
