@@ -6,10 +6,6 @@
 
 - 推理代码和运行截图：  
     ![image.png](picture/image.png)
-
-<details>
-
- <summary>点击查看代码</summary>
  
     ```python
     from openmind import AutoModelForCausalLM, AutoTokenizer  
@@ -120,14 +116,11 @@
         main()
     ```
 
-</details>  
-
-
- - 推理单元测试与运行截图：
+- 推理单元测试与运行截图：
     
     ![image.png](picture/image%201.png)
     
-```python
+    ```python
     import unittest  
     import torch  
     import os  
@@ -317,7 +310,7 @@
     if __name__ == '__main__':  
         unittest.main()
 
-```
+     ```
 
 
 
