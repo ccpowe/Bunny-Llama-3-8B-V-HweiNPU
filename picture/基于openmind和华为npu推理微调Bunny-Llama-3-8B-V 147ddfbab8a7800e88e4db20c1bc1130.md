@@ -6,7 +6,7 @@
 
 - 推理代码和运行截图：
     
-    ![image.png](picture/image.png)
+    ![image.png](../picture/image.png)
     
     ```python
     from openmind import AutoModelForCausalLM, AutoTokenizer  
@@ -119,7 +119,7 @@
     
 - 推理单元测试与运行截图：
     
-    ![image.png](picture/image%201.png)
+    ![image.png](image%201.png)
     
     ```python
     import unittest  
@@ -335,7 +335,7 @@
 
 - 微调代码和运行截图
     
-    ![image.png](picture/image%202.png)
+    ![image.png](image%202.png)
     
     ```python
     import os  
@@ -715,7 +715,7 @@
     
 - 微调单元测试与运行截图
     
-    ![image.png](picture/image%203.png)
+    ![image.png](image%203.png)
     
     ```python
     import unittest  
@@ -892,7 +892,7 @@
 
 - NPU推理结果
     
-    ![image.png](picture/image.png)
+    ![image.png](image.png)
     
 - NPU推理日志
     
@@ -914,7 +914,7 @@
     
 - NPU单元测试
     
-    ![image.png](picture/image%201.png)
+    ![image.png](image%201.png)
     
     ```python
     import unittest  
@@ -1109,7 +1109,7 @@
     
 - GPU推理结果
     
-    ![image.png](picture/image%204.png)
+    ![image.png](image%204.png)
     
 - GPU推理日志
     
@@ -1131,7 +1131,7 @@
     
 - GPU单元测试
     
-    ![image.png](picture/image%205.png)
+    ![image.png](image%205.png)
     
     ```python
     import unittest  
@@ -1329,7 +1329,7 @@
 
 - NPUloss下降曲线截图
     
-    ![image.png](picture/image%206.png)
+    ![image.png](image%206.png)
     
 - 出图日志
     
@@ -1344,7 +1344,7 @@
     
 - 单元测试
     
-    ![image.png](picture/image%207.png)
+    ![image.png](image%207.png)
     
     ```python
     import unittest
@@ -1410,7 +1410,7 @@
     
 - NPUloss与GPU基线相对误差曲线截图
     
-    ![npu_gpu_relative_error_with_average.png](picture/npu_gpu_relative_error_with_average.png)
+    ![npu_gpu_relative_error_with_average.png](npu_gpu_relative_error_with_average.png)
     
 
 ## 任务4：模型上传至启智社区与魔乐社区的地址
@@ -1419,19 +1419,29 @@
     
     原始模型：[https://modelers.cn/models/ccpower/Bunny-Llama-3-8B-V](https://modelers.cn/models/ccpower/Bunny-Llama-3-8B-V)
     
-    ![image.png](picture/image%208.png)
+    ![image.png](image%208.png)
     
     调优模型：[https://modelers.cn/models/ccpower/Bunny_merge](https://modelers.cn/models/ccpower/Bunny_merge)
     
-    ![image.png](picture/image%209.png)
+    ![image.png](image%209.png)
     
 - 启智社区地址
     
     原始模型：[https://git.openi.org.cn/ccpower/model2/modelmanage/model_readme_tmpl?name=Bunny-Llama-3-8B-V](https://git.openi.org.cn/ccpower/model2/modelmanage/model_readme_tmpl?name=Bunny-Llama-3-8B-V)
     
-    ![image.png](picture/image%2010.png)
+    ![image.png](image%2010.png)
     
     调优模型：[https://git.openi.org.cn/ccpower/model2/modelmanage/model_readme_tmpl?name=ccpower%2FBunny-m](https://git.openi.org.cn/ccpower/model2/modelmanage/model_readme_tmpl?name=ccpower%2FBunny-m)
     
-    ![image.png](picture/image%2011.png)
+    ![image.png](image%2011.png)
     
+
+[实习任务修改](https://www.notion.so/151ddfbab8a780ab9531c3b8dcf12929?pvs=21)
+
+[基于openmind和npu推理微调Bunny-Llama-3-8B-V (1)](https://www.notion.so/openmind-npu-Bunny-Llama-3-8B-V-1-14fddfbab8a78078b2cac09afc8df543?pvs=21)
+
+[微调deepseppd](https://www.notion.so/deepseppd-153ddfbab8a78031b963d641089f5be5?pvs=21)
+
+[模板](https://www.notion.so/143ddfbab8a7803cbed9ed9212755618?pvs=21)
+
+[deepseek](https://www.notion.so/deepseek-166ddfbab8a78038a8afda32dddf7b3d?pvs=21)
